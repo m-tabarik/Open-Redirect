@@ -5,4 +5,6 @@
  take input for number of tabs to open in one go
 
 
+
  
+https://www.google.com/search?q= 
